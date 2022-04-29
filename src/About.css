@@ -1,0 +1,19 @@
+.about-view {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: 200;
+    font-size: 12px;
+    font-style: normal;
+    max-width: 500px;
+    min-width: 200px;
+    margin: auto;
+    line-height: 25px;
+    
+  }
+  img {
+    width: 400px;
+  }
