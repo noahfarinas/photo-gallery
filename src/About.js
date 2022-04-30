@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="page-container">
       <div className="about-view">
-        <img className="selfie-photo" src="./photos/Me2.jpg" alt="" />
+        <img className="selfie-photo" src="./photo-gallery/photos/Me2.jpg" alt="" />
         <div className="about-body">
           <h1>I like dad jokes and Mexican food!</h1>
           <p>
