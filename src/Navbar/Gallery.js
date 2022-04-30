@@ -45,7 +45,7 @@ const PHOTOS = [
     location: "Ballard, Seattle, WA",
   },
   {
-    image: "./photos/kerry.jpg",
+    image: "./photo-gallery/photos/kerry.jpg",
     camera: "Fujifilm X-Pro2",
     lens: "Fujifilm 35mm f/1.4",
     date: "3/11/2022",
