@@ -11,7 +11,7 @@ const Navbar = () => {
         className={isMobile ? "nav-links-mobile" : "nav-links"}
         onClick={() => setIsMobile(false)}
       >
-        <Link to="/photo-gallery" className="home">
+        <Link to="/" className="home">
           <li>Home</li>
         </Link>
 
