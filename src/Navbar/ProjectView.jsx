@@ -17,7 +17,7 @@ const ProjectView = (props) => {
                 <img src={item.img} alt="test" />
                <h3>{item.name}</h3>
                <li>{item.type}</li>
-               <a href={item.link}>View Project</a>
+               <a href={item.link} target= "_blank">View Project</a>
               </>
             </ul>
           ))}
