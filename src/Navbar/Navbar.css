@@ -35,7 +35,8 @@ h1 {
 .contact,
 .about,
 .gallery,
-.investment {
+.investment,
+.projects {
   text-decoration: none;
   color: black;
   font-size: 15px;

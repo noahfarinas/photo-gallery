@@ -2,6 +2,8 @@ import React from "react";
 import "./About.css";
 
 const About = () => {
+
+  
   return (
     <div className="page-container">
       <div className="about-view">
@@ -20,6 +22,7 @@ const About = () => {
             Girl, The League, Parks & Recreation (not a fan of The Office), This
             Is Us, and Parenthood. Let's take some photos and grab a beer!
           </p>
+          
         </div>
       </div>
     </div>

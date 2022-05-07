@@ -27,6 +27,10 @@ const Navbar = () => {
           <li>Investment</li>
         </Link>
 
+        <Link to="/projects" className="projects">
+          <li>Code</li>
+        </Link>
+
         {/* <Link to="/contact" className="contact">
             <li>Contact</li>
           </Link> */}
