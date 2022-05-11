@@ -13,6 +13,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   justify-content: space-around;
+  margin: auto;
 }
 
 ul,
@@ -25,9 +26,9 @@ li {
 
 img {
   height: auto;
-  width: 300px;
+  width: 500px;
   margin: auto;
-  padding: 5px;
+  padding: 20px;
 
 }
 
@@ -97,3 +98,14 @@ h1 {
 }
 
 
+
+@media screen and (max-width: 780px) {
+
+  img {
+    height: auto;
+    width: 380px;
+    margin: auto;
+    padding: 5px;
+  
+  }
+}

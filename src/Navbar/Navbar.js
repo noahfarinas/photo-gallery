@@ -20,7 +20,7 @@ const Navbar = () => {
             About
           </Link>
 
-          <Link to="/Gallery" className="gallery">
+          <Link to="/gallery" className="gallery">
             Gallery
           </Link>
 
